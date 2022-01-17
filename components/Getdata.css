@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+}
+
+
+#post {
+display: flex;
+justify-content: center;
+
+}
+#get {
+   margin-top: 20px;
+    border: 2px solid;
+    height: 500px;
+    width: 200px;
+    text-align: center;
+   
+}
